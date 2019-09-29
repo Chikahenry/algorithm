@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\algoridims\algoridims\bin\Debug\algoridims.exe.config
+C:\Users\user\source\repos\algoridims\algoridims\bin\Debug\algoridims.exe
+C:\Users\user\source\repos\algoridims\algoridims\bin\Debug\algoridims.pdb
+C:\Users\user\source\repos\algoridims\algoridims\obj\Debug\algoridims.csprojAssemblyReference.cache
+C:\Users\user\source\repos\algoridims\algoridims\obj\Debug\algoridims.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\algoridims\algoridims\obj\Debug\algoridims.exe
+C:\Users\user\source\repos\algoridims\algoridims\obj\Debug\algoridims.pdb
